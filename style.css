@@ -663,6 +663,12 @@ a {
     font-size: 25px;
 }
 
+.p-name {
+    font-family: "helvetica";
+    font-weight: 400;
+    font-size: 16px;
+}
+
 .title-2 {
     font-family: "helvetica";
     font-weight: 400;
