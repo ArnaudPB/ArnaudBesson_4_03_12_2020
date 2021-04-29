@@ -663,6 +663,13 @@ a {
     font-size: 25px;
 }
 
+.title-2 {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757!important;
+    font-size: 25px;
+}
+
 .ready-to {
     color: rgb(241, 240, 240);
 }
