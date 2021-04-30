@@ -676,6 +676,12 @@ a {
     font-size: 25px;
 }
 
+.p-contact {
+    font-family: "helvetica";
+    font-weight: 400;
+    font-size: 16px;
+}
+
 .ready-to {
     color: rgb(241, 240, 240);
 }
@@ -810,6 +816,11 @@ h4 {
 .tc-white {
     color: white!important;
     font-size: 22px;
+}
+
+.tc-white-contact {
+    color: rgb(7, 7, 7)!important;
+    font-size: 20px;
 }
 
 .btn-atomic-tangerine {
